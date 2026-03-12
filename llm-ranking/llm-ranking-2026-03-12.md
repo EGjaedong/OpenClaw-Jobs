@@ -30,7 +30,10 @@
 
 | 排名 | 模型 | 得分 | 投票数 |
 |------|------|------|--------|
-| - | 数据待抓取 | - | - |
+| 1 | Anthropic claude-opus-4-6-search | 1255 | 3,607 |
+| 2 | grok-4.20-beta1 | 1225 | 4,687 |
+| 3 | gpt-5.2-search | 1219 | 20,150 |
+| 4 | gemini-3-flash-grounding | 1218 | 25,311 |
 
 ---
 *数据来自 HuggingFace LLM Arena*
