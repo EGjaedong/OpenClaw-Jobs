@@ -2,10 +2,9 @@
 
 > 数据来源: [HuggingFace Arena Leaderboard](https://huggingface.co/spaces/lmarena-ai/arena-leaderboard)
 
-抓取时间: 2026-03-12 20:56:14
+抓取时间: 2026-03-12 21:05:24
 
 ---
-
 ## 编码能力 (Code)
 
 | 排名 | 模型 | 得分 | 投票数 |
